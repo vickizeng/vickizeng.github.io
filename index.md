@@ -4,12 +4,7 @@
 
 Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
-<!--
 
-My research interest is at the intersection of natural language processing and data analysis, especially on developing interpretable, scalable and predictive approaches to model human opinions and behavior from structured and unstructured data. 
-
-
--->
 
 
 <br>
@@ -42,7 +37,7 @@ My research interest is at the intersection of natural language processing and d
 
 - "An Auto-Encoder Matching Model for Learning Utterance-Level Semantic Dependency in Dialogue Generation". <br>
   Jingjing Xu\*, Liangchen Luo\*, Junyang Lin, **Qi Zeng**, and Xu Sun. <br>
-  In **EMNLP 2018**. [[PDF](http://aclweb.org/anthology/D18-1075)].[[CODE](https://github.com/lancopku/AMM)].[[Poster](/files/EMNLP18-AEM-poster.pdf)].(Acceptance Rate 24.6%).
+  In **EMNLP 2018**. [[PDF](http://aclweb.org/anthology/D18-1075)].[[CODE](https://github.com/lancopku/AMM)].[[Poster](http://vickizeng.com/files/EMNLP18-AEM-poster.pdf)].(Acceptance Rate 24.6%).
 
 - "A Skeleton-Based Model for Promoting Coherence in Narrative Story Generation". <br>
   Jingjing Xu, Xuancheng Ren, Yi Zhang, **Qi Zeng**, Xiaoyan Cai and Xu Sun. <br>
@@ -50,7 +45,7 @@ My research interest is at the intersection of natural language processing and d
 
 - "Unpaired Sentiment-to-Sentiment Translation Using Cycled Reinforcement Learning". <br>
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
-  In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
+  In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](http://vickizeng.com/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
 
 - "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>

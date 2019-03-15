@@ -1,20 +1,25 @@
 
-# Welcome
 
 
-Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook University. Before joining in Stony Brook, I received my BS degree from Peking University in 2018. 
 
 
+<img src="http://vickizeng.com/images/pku_graduation.jpeg" class="floatpic" align = "right" height="300">
+
+Greetings! My name is Qi Zeng (曾琪). I received my B.S. degree from Peking University, China. 
+
+
+[[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)].[[Github](https://github.com/pkuzengqi)].
+
+<br>
+
+Please see my new website [www.vickizeng.com](http://vickizeng.com).
 
 
 <br>
 # Academic Experience
 
-
-### SUNY Stony Brook University (PhD in Computer Science, 2018 - present) 
-
-### Peking University (BS, 2013 - 2018)
-
+### Peking University 
+  - BS in Information Science, 2013 - 2018
 
 
 <br>
@@ -25,6 +30,11 @@ Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook
 [[Google Scholar](https://scholar.google.com/citations?user=lOEEhwgAAAAJ&hl=zh-CN)]
 
 \* means equal contribution.
+
+
+- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
+  Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, Xuancheng Ren, and Xu Sun.<br>
+  In **NAACL 2019**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
 
 
 - "Text Assisted Insight Ranking Using Context-Aware Memory Network". <br>
@@ -47,10 +57,6 @@ Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook
   Jingjing Xu, Xu Sun, **Qi Zeng**, Xuancheng Ren, Xiaodong Zhang, Houfeng Wang and Wenjie Li. <br>
   In **ACL 2018**. [[PDF](http://aclweb.org/anthology/P18-1090)].[[CODE](https://github.com/lancopku/Unpaired-Sentiment-Translation)].[[SLIDES](http://vickizeng.com/files/ACL2018.pdf)]. (Acceptance Rate 24.9%).
 
-
-- "Review-Driven Multi-Label Music Style Classification by Exploiting Style Correlations". <br>
-  Jingjing Xu\*, Guangxiang Zhao\*, **Qi Zeng**, and Xuancheng Ren.<br>
-  In **Arxiv**. [[PDF](https://arxiv.org/pdf/1808.07604.pdf)].
 
 
 
@@ -89,6 +95,7 @@ Hi there! I'm a first-year PhD student in Computer Science at (SUNY) Stony Brook
 <br>
 
 # TA Experience
+  - Spring 2019: TA for [CSE 337 Scripting Languages](https://www3.cs.stonybrook.edu/~ckane/cse337/), Stony Brook University
   - CSE101 Introduction to Computers, Fall 2018, Stony Brook University
   - Study and Practice on Topics of Frontier Computing(I) , Fall 2017, Peking University
 
